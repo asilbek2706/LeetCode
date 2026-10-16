@@ -10,6 +10,7 @@ class Solution {
             sum  = sum * 10 + temp;
             System.out.println(sum);
         }
+
         return sum == target;
     }
 }
