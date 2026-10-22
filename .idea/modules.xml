@@ -3,12 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Leetcode.iml" filepath="$PROJECT_DIR$/.idea/Leetcode.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LongestCommonPrefix/LongestCommonPrefix.iml" filepath="$PROJECT_DIR$/LongestCommonPrefix/LongestCommonPrefix.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MergeTwoSortedList/MergeTwoSortedList.iml" filepath="$PROJECT_DIR$/MergeTwoSortedList/MergeTwoSortedList.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Palindrome/Palindrome.iml" filepath="$PROJECT_DIR$/Palindrome/Palindrome.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TomanToInt/TomanToInt.iml" filepath="$PROJECT_DIR$/TomanToInt/TomanToInt.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TwoSum/TwoSum.iml" filepath="$PROJECT_DIR$/TwoSum/TwoSum.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ValidParentheses/ValidParentheses.iml" filepath="$PROJECT_DIR$/ValidParentheses/ValidParentheses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Easy/LongestCommonPrefix/LongestCommonPrefix.iml" filepath="$PROJECT_DIR$/Java/Easy/LongestCommonPrefix/LongestCommonPrefix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Easy/MergeTwoSortedList/MergeTwoSortedList.iml" filepath="$PROJECT_DIR$/Java/Easy/MergeTwoSortedList/MergeTwoSortedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Easy/Palindrome/Palindrome.iml" filepath="$PROJECT_DIR$/Java/Easy/Palindrome/Palindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Easy/TomanToInt/TomanToInt.iml" filepath="$PROJECT_DIR$/Java/Easy/TomanToInt/TomanToInt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Easy/TwoSum/TwoSum.iml" filepath="$PROJECT_DIR$/Java/Easy/TwoSum/TwoSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Easy/ValidParentheses/ValidParentheses.iml" filepath="$PROJECT_DIR$/Java/Easy/ValidParentheses/ValidParentheses.iml" />
     </modules>
   </component>
 </project>
