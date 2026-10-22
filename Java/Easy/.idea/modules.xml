@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/26/26.iml" filepath="$PROJECT_DIR$/26/26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/27/27.iml" filepath="$PROJECT_DIR$/27/27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Easy.iml" filepath="$PROJECT_DIR$/.idea/Easy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LongestCommonPrefix/LongestCommonPrefix.iml" filepath="$PROJECT_DIR$/LongestCommonPrefix/LongestCommonPrefix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MergeTwoSortedList/MergeTwoSortedList.iml" filepath="$PROJECT_DIR$/MergeTwoSortedList/MergeTwoSortedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palindrome/Palindrome.iml" filepath="$PROJECT_DIR$/Palindrome/Palindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TomanToInt/TomanToInt.iml" filepath="$PROJECT_DIR$/TomanToInt/TomanToInt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TwoSum/TwoSum.iml" filepath="$PROJECT_DIR$/TwoSum/TwoSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ValidParentheses/ValidParentheses.iml" filepath="$PROJECT_DIR$/ValidParentheses/ValidParentheses.iml" />
+    </modules>
+  </component>
+</project>
